@@ -1,2 +1,2 @@
-# nlp101_dphiMiniBootCamp
-NLP 101, presented by DEPHI as a Mini BootCamp
+# NLP 101
+NLP 101, presented by [Dphi](https://dphi.tech/) as a Mini BootCamp
